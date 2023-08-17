@@ -150,19 +150,62 @@ form {
 	margin: 20px 30px 20px 10px;
 	width: 1000px;
 	
+}
 
+.get{
+	color: #000;
 }
 
 .coment{
 	margin: 0px 0px 20px 5px;
-
 	width: 1000px;
 	height: 200px;
+
+	background: #e7e5e5;
+	border: 1px solid #d6cece;
 }
 .username {
 	margin: 0px 0px 20px 5px;
-
 	width: 1000px;
 	height: 30px;
 
+	background: #e7e5e5;
+	border: 1px solid #d6cece;
+
+}
+
+.useremail{
+	margin: 0px 0px 20px 5px;
+	width: 1000px;
+	height: 30px;
+
+	background: #e7e5e5;
+	border: 1px solid #d6cece;
+
+}
+
+.usersait{
+	margin: 0px 0px 20px 5px;
+	width: 1000px;
+	height: 30px;
+
+	background: #e7e5e5;
+	border: 1px solid #d6cece;
+}
+
+
+
+.agree{
+	margin: 0px 0px 20px 5px;
+}
+
+button{
+	margin: 0px 0px 30px 5px;
+	color: #ece7e7;
+	background: #6c9c5d ;
+	font-size: 16px;
+	text-transform: uppercase;
+	width: 250px;
+	height: 30px;
+   text-align: center;
 }
